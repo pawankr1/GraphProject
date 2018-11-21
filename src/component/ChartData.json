@@ -1,0 +1,67 @@
+{
+    "Pawan":{
+        "labels": [ "Blue", "Yellow", "Green", "Purple", "Orange"],
+        "datasets": [{
+            "label": "No of Votes",
+            "data": [ 25, 30, 35, 40, 45,0],
+            "backgroundColor": [ "Blue", "Yellow", "Green", "Purple", "Orange"]
+        }]
+    },
+    "Mohit":{
+        "labels": [ "Blue", "Yellow", "Green", "Purple", "Orange"],
+        "datasets": [{
+            "label": "No of Votes",
+            "data": [ 15, 30, 35, 40, 45,0],
+            "backgroundColor": [ "Blue", "Yellow", "Green", "Purple", "Orange"]
+        }]
+    },
+    "Rahul":{
+        "labels": [ "Blue", "Yellow", "Green", "Purple", "Orange"],
+        "datasets": [{
+            "label": "No of Votes",
+            "data": [ 15, 15, 35, 40, 45,0],
+            "backgroundColor": [ "Blue", "Yellow", "Green", "Purple", "Orange"]
+        }]
+    },
+    "Amrit":{
+        "labels": [ "Blue", "Yellow", "Green", "Purple", "Orange"],
+        "datasets": [{
+            "label": "No of Votes",
+            "data": [ 15, 15, 35, 40, 15,0],
+            "backgroundColor": [ "Blue", "Yellow", "Green", "Purple", "Orange"]
+        }]
+    },
+    "1":{
+        "labels": [ "Blue", "Yellow", "Green", "Purple", "Orange"],
+        "datasets": [{
+            "label": "No of Votes",
+            "data": [ 25, 30, 35, 40, 45,0],
+            "backgroundColor": [ "Blue", "Yellow", "Green", "Purple", "Orange"]
+        }]
+    },
+    "2":{
+        "labels": [ "Blue", "Yellow", "Green", "Purple", "Orange"],
+        "datasets": [{
+            "label": "No of Votes",
+            "data": [ 15, 30, 35, 40, 45,0],
+            "backgroundColor": [ "Blue", "Yellow", "Green", "Purple", "Orange"]
+        }]
+    },
+    "3":{
+        "labels": [ "Blue", "Yellow", "Green", "Purple", "Orange"],
+        "datasets": [{
+            "label": "No of Votes",
+            "data": [ 15, 15, 35, 40, 45,0],
+            "backgroundColor": [ "Blue", "Yellow", "Green", "Purple", "Orange"]
+        }]
+    },
+    "4":{
+        "labels": [ "Blue", "Yellow", "Green", "Purple", "Orange"],
+        "datasets": [{
+            "label": "No of Votes",
+            "data": [ 15, 15, 35, 40, 15,0],
+            "backgroundColor": [ "Blue", "Yellow", "Green", "Purple", "Orange"]
+        }]
+    }
+}
+    
